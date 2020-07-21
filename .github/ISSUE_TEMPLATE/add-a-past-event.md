@@ -1,6 +1,6 @@
 ---
-name: Add a past event
-about: This template is used to add a virtual conference to the "past-events" list.
+name: Add a Past Virtual Conference
+about: Use this template to request to add virtual conference to the "past-events" list.
 title: ''
 labels: past-event
 assignees: santosomar
