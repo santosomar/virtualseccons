@@ -1,6 +1,6 @@
 ---
-name: Adding a New Upcoming Virtual Conference
-about: Adding a New Upcoming Virtual Conference
+name: Add a New Upcoming Virtual Conference
+about: Use this template to request to add a new upcoming virtual conference.
 title: ''
 labels: new upcoming conference
 assignees: santosomar
