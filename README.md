@@ -6,9 +6,9 @@ This repository has been created to track all upcoming virtual cybersecurity con
 
 The following are the upcoming events.
 
-
 | Date | Event Name | Website |
 |------|------------|---------|
+| Aug 1-6 | BlackHat USA | https://blackhat.com |
 | Aug 6-9 | DEF CON Safemode | https://defcon.org |
 | Aug 6-9 | DEF CON AI Village activities during DEF CON Safemode | https://aivillage.org/ |
 | Aug 6-9 | DEF CON AppSec Village activities during DEF CON Safemode | https://www.appsecvillage.com |
@@ -31,7 +31,13 @@ The following are the upcoming events.
 | Aug 6-9 | DEF CON Social Engineering Village activities during DEF CON Safemode | https://www.social-engineer.org |
 | Aug 6-9 | DEF CON Voting Village activities during DEF CON Safemode | https://twitter.com/VotingVillageDC |
 | Aug 6-9 | DEF CON Wireless Village activities during DEF CON Safemode | https://www.wirelessvillage.ninja |
-| Aug 6-9 | DEF CON ---- Village activities during DEF CON Safemode | https://www.wirelessvillage.ninja/ |
-| Aug 6-9 | DEF CON ---- Village activities during DEF CON Safemode | https://www.wirelessvillage.ninja/ |
-| Aug 6-9 | DEF CON ---- Village activities during DEF CON Safemode | https://www.wirelessvillage.ninja/ |
-| Aug 6-9 | DEF CON ---- Village activities during DEF CON Safemode | https://www.wirelessvillage.ninja/ |
+| Aug 10-14 | Tactical Edge Virtual Summit 2020 | https://www.tacticaledge.co/en |
+| Aug 18 | BSides København |  https://bsideskbh.dk |
+| Sep 22-25 | Tactical Edge LATAM Virtual Summit 2020 | https://www.tacticaledge.co |
+| Oct 9 | ShellCon | https://shellcon.io |
+| Oct 15 | BSides Delhi | https://bsidesdelhi.in |
+| Oct 17-18 | BSides Toronto | http://www.bsidesto.ca/ |
+| Oct 29-31 | Texas Cyber Summit | https://www.texascybersummit.org |
+| Nov 1 | YASCON 2020 | https://yetanothersec.com/yascon2020 |
+| Nov 12-14 | m0leCon | https://m0lecon.it |
+
