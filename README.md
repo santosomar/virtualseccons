@@ -9,6 +9,7 @@ The following are the upcoming events.
 | Date | Event Name | Website |
 |------|------------|---------|
 | Aug 1-6 | BlackHat USA | https://blackhat.com |
+| Aug 1 | h@cktivityCon | https://www.hackerone.com/hacktivitycon |
 | Aug 6-9 | DEF CON Safemode | https://defcon.org |
 | Aug 6-9 | DEF CON AI Village activities during DEF CON Safemode | https://aivillage.org/ |
 | Aug 6-9 | DEF CON AppSec Village activities during DEF CON Safemode | https://www.appsecvillage.com |
