@@ -34,7 +34,7 @@ The following are the upcoming events.
 | Aug 10-14 | Tactical Edge Virtual Summit 2020 | https://www.tacticaledge.co/en |
 | Aug 18 | BSides København |  https://bsideskbh.dk |
 | Sep 22-25 | Tactical Edge LATAM Virtual Summit 2020 | https://www.tacticaledge.co |
-| Sep 26 |  Bsides Boston | bsidesbos.org |
+| Sep 26 |  Bsides Boston | https://bsidesbos.org |
 | Oct 9 | ShellCon | https://shellcon.io |
 | Oct 15 | BSides Delhi | https://bsidesdelhi.in |
 | Oct 17-18 | BSides Toronto | http://www.bsidesto.ca/ |
