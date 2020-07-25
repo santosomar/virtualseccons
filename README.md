@@ -8,6 +8,7 @@ The following are the upcoming events.
 
 | Date | Event Name | Website |
 |------|------------|---------|
+| July 25 - Aug 2 | HOPE - Hackers on Planet Earth| https://www.hope.net/|
 | Aug 1-6 | BlackHat USA | https://blackhat.com |
 | Aug 1 | h@cktivityCon | https://www.hackerone.com/hacktivitycon |
 | Aug 6-9 | DEF CON Safemode | https://defcon.org |
