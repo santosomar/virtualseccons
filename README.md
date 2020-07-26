@@ -36,6 +36,7 @@ The following are the upcoming events.
 | Aug 10-14 | Tactical Edge Virtual Summit 2020 | https://www.tacticaledge.co/en |
 | Aug 13-16 | Nullcon Online Training 2020 | https://nullcon.net |
 | Aug 18 | BSides København |  https://bsideskbh.dk |
+| Aug 20 | UniCon | https://www.scythe.io/unicon2020 |
 | Sep 2 | Disclosure by Okta | https://www.disclosureconference.com/ |
 | Sep 22-25 | Tactical Edge LATAM Virtual Summit 2020 | https://www.tacticaledge.co |
 | Sep 26 |  Bsides Boston | https://bsidesbos.org |
