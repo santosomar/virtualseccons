@@ -6,8 +6,8 @@ This repository has been created to track all upcoming virtual cybersecurity con
 
 The following are the upcoming events.
 
-| Date | Event Name | Website |
-|------|------------|---------|
+| Date | Event Name |
+|------|------------|
 | July 25 - Aug 2 | [HOPE - Hackers on Planet Earth](https://www.hope.net/)|
 | Aug 1-6 | [BlackHat USA ](https://blackhat.com )|
 | Aug 1 | [h@cktivityCon ](https://www.hackerone.com/hacktivitycon )|
@@ -29,7 +29,7 @@ The following are the upcoming events.
 | Aug 6-9 | [DEF CON Packet Hacking Village activities during DEF CON Safemode ](https://www.wallofsheep.com/ )|
 | Aug 6-9 | [DEF CON Recon Village activities during DEF CON Safemode ](https://reconvillage.org )|
 | Aug 6-9 | [DEF CON Red Team Village activities during DEF CON Safemode ](https://redteamvillage.io  )|
-| Aug 6-9 | [DEF CON Rogues Village activities during DEF CON Safemode |  www.foursuits.co/roguesvillage )|
+| Aug 6-9 | [DEF CON Rogues Village activities during DEF CON Safemode](https://www.foursuits.co/roguesvillage )|
 | Aug 6-9 | [DEF CON Social Engineering Village activities during DEF CON Safemode](https://www.social-engineer.org )|
 | Aug 6-9 | [DEF CON Voting Village activities during DEF CON Safemode ](https://twitter.com/VotingVillageDC )|
 | Aug 6-9 | [DEF CON Wireless Village activities during DEF CON Safemode ](https://www.wirelessvillage.ninja )|
