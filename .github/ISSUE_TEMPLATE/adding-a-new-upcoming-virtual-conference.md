@@ -7,6 +7,6 @@ assignees: santosomar
 
 ---
 
-| Date | Event Name | Website |
-|------|------------|---------|
-| <date> | <event name> | <website or Twitter> |
+| Date | Event Name |
+|------|------------|
+| <date> | [<event name> ](<website or Twitter>) |
