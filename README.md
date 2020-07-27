@@ -13,7 +13,7 @@ The following are the upcoming events.
 | Aug 1 | [h@cktivityCon ](https://www.hackerone.com/hacktivitycon )|
 | Aug 6-9 | [DEF CON Safemode ](https://defcon.org )|
 | Aug 6-9 | [DEF CON AI Village activities during DEF CON Safemode](https://aivillage.org/ )|
-| Aug 6-9 | [DEF CON AppSec Village activities during DEF CON Safemode] https://www.appsecvillage.com )|
+| Aug 6-9 | [DEF CON AppSec Village activities during DEF CON Safemode](https://www.appsecvillage.com )|
 | Aug 6-9 | [DEF CON Aviation Village activities during DEF CON Safemode ](https://aerospacevillage.org/ )|
 | Aug 6-9 | [DEF CON Bio Hacking Village activities during DEF CON Safemode ](https://www.villageb.io )|
 | Aug 6-9 | [DEF CON Blue Team Village activities during DEF CON Safemode ](https://blueteamvillage.org )|
