@@ -2,7 +2,7 @@
 
 | Event Name | Videos or Website |
 |------------|---------|
-| [HOPE - Hackers on Planet Earth](https://www.hope.net/)| [Archived talks](https://archive.org/details/hopeconf2020)
+| HOPE - Hackers on Planet Earth | [Archived talks](https://archive.org/details/hopeconf2020)
 | DEF CON Videos | [YouTube Playlists](https://www.youtube.com/user/DEFCONConference/playlists) |
 | ATT&CKcon 2018 | [YouTube Playlist](https://www.youtube.com/playlist?list=PLkTApXQou_8JrhtrFDfAskvMqk97Yu2S2) |
 | ATT&CKcon 2.0 | [YouTube Playlist](https://www.youtube.com/playlist?list=PLkTApXQou_8KXWrk0G83QQbNLvspAo-Qk) |
