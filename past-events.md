@@ -2,6 +2,7 @@
 
 | Event Name | Videos or Website |
 |------------|---------|
+| July 25 - Aug 2 | [HOPE - Hackers on Planet Earth](https://www.hope.net/)|
 | DEF CON Videos | [YouTube Playlists](https://www.youtube.com/user/DEFCONConference/playlists) |
 | ATT&CKcon 2018 | [YouTube Playlist](https://www.youtube.com/playlist?list=PLkTApXQou_8JrhtrFDfAskvMqk97Yu2S2) |
 | ATT&CKcon 2.0 | [YouTube Playlist](https://www.youtube.com/playlist?list=PLkTApXQou_8KXWrk0G83QQbNLvspAo-Qk) |
