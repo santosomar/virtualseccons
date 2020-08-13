@@ -12,6 +12,7 @@ The following are the upcoming events.
 | Aug 13-16 | [Nullcon Online Training 2020 ](https://nullcon.net )|
 | Aug 18 | [BSides København](https://bsideskbh.dk )|
 | Aug 20 | [UniCon ](https://www.scythe.io/unicon2020 )|
+| Aug 22-23 |[LevelUp0x07](https://www.bugcrowd.com/events/levelup0x07/)]
 | Aug 25 | [ITWeb Security Summit](https://v2.itweb.co.za/event/itweb/security-summit-2020/?page=agendaday1)|
 | Sep 2 |[Disclosure by Okta ](https://www.disclosureconference.com/ )|
 | Sep 22-25 | [Tactical Edge LATAM Virtual Summit 2020 ](https://www.tacticaledge.co )|
