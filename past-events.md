@@ -1,7 +1,7 @@
 # Past Events
 
-| Event Name | Videos or Website |
-|------------|---------|
+| Event Name and Link |
+|------------|
 | HOPE - Hackers on Planet Earth](https://archive.org/details/hopeconf2020)|
 | [h@cktivityCon ](https://www.hackerone.com/hacktivitycon )|
 | [DEF CON Safemode ](https://defcon.org )|
