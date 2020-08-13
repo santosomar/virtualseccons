@@ -2,7 +2,8 @@
 
 | Event Name | Videos or Website |
 |------------|---------|
-| HOPE - Hackers on Planet Earth | [Archived talks](https:| [h@cktivityCon ](https://www.hackerone.com/hacktivitycon )|
+| HOPE - Hackers on Planet Earth](https://archive.org/details/hopeconf2020)|
+| [h@cktivityCon ](https://www.hackerone.com/hacktivitycon )|
 | [DEF CON Safemode ](https://defcon.org )|
 | [DEF CON AI Village activities during DEF CON Safemode](https://aivillage.org/ )|
 | [DEF CON AppSec Village activities during DEF CON Safemode](https://www.appsecvillage.com )|
