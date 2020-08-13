@@ -25,6 +25,7 @@ The following are the upcoming events.
 | Oct 17-18 | [BSides Toronto ](http://www.bsidesto.ca/ )|
 | Oct 19-23 | [Hacker Halted ](https://www.hackerhalted.com )|
 | Oct 29-31 | [Texas Cyber Summit ](https://www.texascybersummit.org )|
+| Oct 24-31 | [GrayHat](https://grayhat.co )|
 | Nov 1 | [YASCON 2020 ](https://yetanothersec.com/yascon2020 )|
 | Nov 12-14 | [m0leCon ](https://m0lecon.it )|
 
