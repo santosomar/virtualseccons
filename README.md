@@ -9,6 +9,7 @@ The following are the upcoming events.
 | Date | Event Name |
 |------|------------|
 | Aug 10-14 | [Tactical Edge Virtual Summit 2020 ](https://www.tacticaledge.co/en )|
+| Aug 12-14 | [USENIX](https://www.usenix.org/conference/usenixsecurity20#registration)
 | Aug 13-16 | [Nullcon Online Training 2020 ](https://nullcon.net )|
 | Aug 18 | [BSides København](https://bsideskbh.dk )|
 | Aug 20 | [UniCon ](https://www.scythe.io/unicon2020 )|
