@@ -2,6 +2,8 @@
 
 | Event Name and Link |
 |------------|
+| [Tactical Edge Virtual Summit 2020 ](https://www.tacticaledge.co/en )|
+| [USENIX](https://www.usenix.org/conference/usenixsecurity20#registration)
 | [HOPE - Hackers on Planet Earth](https://archive.org/details/hopeconf2020)|
 | [h@cktivityCon ](https://www.hackerone.com/hacktivitycon )|
 | [DEF CON Safemode ](https://defcon.org )|
