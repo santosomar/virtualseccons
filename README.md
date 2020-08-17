@@ -13,6 +13,7 @@ The following are the upcoming events.
 | Aug 20 | [UniCon ](https://www.scythe.io/unicon2020 )|
 | Aug 21-22 | [Diana Initiative](https://www.dianainitiative.org/)
 | Aug 22-23 |[LevelUp0x07](https://www.bugcrowd.com/events/levelup0x07/)]
+| Aug 23 | Bsides Munich 2020 (https://2020.bsidesmunich.org/) |
 | Aug 25 | [ITWeb Security Summit](https://v2.itweb.co.za/event/itweb/security-summit-2020/?page=agendaday1)|
 | Sep 2 |[Disclosure by Okta ](https://www.disclosureconference.com/ )|
 | Sep 2-5 | [R2CON 2020](https://rada.re/con/2020/)|
