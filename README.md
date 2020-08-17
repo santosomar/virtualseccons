@@ -8,14 +8,13 @@ The following are the upcoming events.
 
 | Date | Event Name |
 |------|------------|
-| Aug 10-14 | [Tactical Edge Virtual Summit 2020 ](https://www.tacticaledge.co/en )|
-| Aug 12-14 | [USENIX](https://www.usenix.org/conference/usenixsecurity20#registration)
 | Aug 13-16 | [Nullcon Online Training 2020 ](https://nullcon.net )|
 | Aug 18 | [BSides København](https://bsideskbh.dk )|
 | Aug 20 | [UniCon ](https://www.scythe.io/unicon2020 )|
 | Aug 22-23 |[LevelUp0x07](https://www.bugcrowd.com/events/levelup0x07/)]
 | Aug 25 | [ITWeb Security Summit](https://v2.itweb.co.za/event/itweb/security-summit-2020/?page=agendaday1)|
 | Sep 2 |[Disclosure by Okta ](https://www.disclosureconference.com/ )|
+| Sep 2-5 | [R2CON 2020](https://rada.re/con/2020/)|
 | Sep 22-25 | [Tactical Edge LATAM Virtual Summit 2020 ](https://www.tacticaledge.co )|
 | Sep 26 |  [Bsides Boston ](https://bsidesbos.org )|
 | Sep 27 - Oct 2 | [Hardware.io Netherlands 2020 ](https://hardwear.io )|
