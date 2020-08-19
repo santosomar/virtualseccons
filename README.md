@@ -8,7 +8,6 @@ The following are the upcoming events.
 
 | Date | Event Name |
 |------|------------|
-| Aug 13-16 | [Nullcon Online Training 2020 ](https://nullcon.net )|
 | Aug 18 | [BSides København](https://bsideskbh.dk )|
 | Aug 20 | [UniCon](https://www.scythe.io/unicon2020 )|
 | Aug 21-22 | [Diana Initiative](https://www.dianainitiative.org/)
