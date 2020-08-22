@@ -16,6 +16,7 @@ The following are the upcoming events.
 | Aug 25 | [ITWeb Security Summit](https://v2.itweb.co.za/event/itweb/security-summit-2020/?page=agendaday1)|
 | Sep 2 |[Disclosure by Okta ](https://www.disclosureconference.com/ )|
 | Sep 2-5 | [R2CON 2020](https://rada.re/con/2020/)|
+| Sep 3-4 | [NoNameCon](https://nonamecon.org/)|
 | Sep 22-25 | [Tactical Edge LATAM Virtual Summit 2020 ](https://www.tacticaledge.co )|
 | Sep 26 |  [Bsides Boston ](https://bsidesbos.org )|
 | Sep 27 - Oct 2 | [Hardware.io Netherlands 2020 ](https://hardwear.io )|
