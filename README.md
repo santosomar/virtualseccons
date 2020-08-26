@@ -26,6 +26,7 @@ The following are the upcoming events.
 | Oct 15 | [BSides Delhi ](https://bsidesdelhi.in )|
 | Oct 17-18 | [BSides Toronto ](http://www.bsidesto.ca/ )|
 | Oct 19-23 | [Hacker Halted ](https://www.hackerhalted.com )|
+| Oct 23 | [HOU.SEC.CON](http://houstonseccon.org)|
 | Oct 29-31 | [Texas Cyber Summit ](https://www.texascybersummit.org )|
 | Oct 24-28 | [GrayHat Trainings](https://grayhat.co )|
 | Oct 29-31 | [GrayHat Conference](https://grayhat.co )|
