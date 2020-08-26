@@ -12,6 +12,7 @@ The following are the upcoming events.
 | Sep 2 |[Disclosure by Okta ](https://www.disclosureconference.com/ )|
 | Sep 2-5 | [R2CON 2020](https://rada.re/con/2020/)|
 | Sep 3-4 | [NoNameCon](https://nonamecon.org/)|
+| Sep 10-11 | [x33fcon](https://www.x33fcon.com/)|
 | Sep 22-25 | [Tactical Edge LATAM Virtual Summit 2020 ](https://www.tacticaledge.co )|
 | Sep 26 |  [Bsides Boston ](https://bsidesbos.org )|
 | Sep 27 - Oct 2 | [Hardware.io Netherlands 2020 ](https://hardwear.io )|
