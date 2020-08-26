@@ -2,6 +2,11 @@
 
 | Event Name and Link |
 |------------|
+| [BSides København](https://bsideskbh.dk )|
+| [UniCon](https://www.scythe.io/unicon2020 )|
+| [Diana Initiative](https://www.dianainitiative.org/)
+| [LevelUp0x07](https://www.bugcrowd.com/events/levelup0x07/)
+| [BSides Munich 2020](https://2020.bsidesmunich.org/) |
 | [Nullcon Online Training 2020 ](https://nullcon.net )|
 | [Tactical Edge Virtual Summit 2020 ](https://www.tacticaledge.co/en )|
 | [USENIX](https://www.usenix.org/conference/usenixsecurity20#registration)
