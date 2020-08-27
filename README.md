@@ -22,6 +22,7 @@ The following are the upcoming events.
 | Sep 25 | [Hack @ The Harbor (H@THCON)](https://hackattheharbor.com/)|
 | Oct 9-10 | [ATT&CKcon Power Hour](https://attack.mitre.org/resources/attackcon) |
 | Oct 9 | [ShellCon ](https://shellcon.io )|
+| Oct 9-10 | [ROOTCON ](https://www.rootcon.org/) |
 | Oct 15 | [BSides Delhi ](https://bsidesdelhi.in )|
 | Oct 17-18 | [BSides Toronto ](http://www.bsidesto.ca/ )|
 | Oct 19-23 | [Hacker Halted ](https://www.hackerhalted.com )|
