@@ -9,6 +9,7 @@ The following are the upcoming events.
 | Date | Event Name |
 |------|------------|
 | Aug 28-30 | [RESTCON](https://resethacker.com/restcon)|
+| Aug 29 | [NotPinkCon](https://notpinkcon.org/)|
 | Sep 2 |[Disclosure by Okta ](https://www.disclosureconference.com/ )|
 | Sep 2-5 | [R2CON 2020](https://rada.re/con/2020/)|
 | Sep 3-4 | [NoNameCon](https://nonamecon.org/)|
