@@ -2,6 +2,7 @@
 
 | Event Name and Link |
 |------------|
+| [ITWeb Security Summit](https://v2.itweb.co.za/event/itweb/security-summit-2020/?page=agendaday1)|
 | [BSides København](https://bsideskbh.dk )|
 | [UniCon](https://www.scythe.io/unicon2020 )|
 | [Diana Initiative](https://www.dianainitiative.org/)
