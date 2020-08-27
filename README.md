@@ -8,7 +8,6 @@ The following are the upcoming events.
 
 | Date | Event Name |
 |------|------------|
-| Aug 25 | [ITWeb Security Summit](https://v2.itweb.co.za/event/itweb/security-summit-2020/?page=agendaday1)|
 | Aug 28-30 | [RESTCON](https://resethacker.com/restcon)|
 | Sep 2 |[Disclosure by Okta ](https://www.disclosureconference.com/ )|
 | Sep 2-5 | [R2CON 2020](https://rada.re/con/2020/)|
