@@ -31,6 +31,7 @@ The following are the upcoming events.
 | Oct 29-31 | [Texas Cyber Summit ](https://www.texascybersummit.org )|
 | Oct 24-28 | [GrayHat Trainings](https://grayhat.co )|
 | Oct 29-31 | [GrayHat Conference](https://grayhat.co )|
+| Oct 29-31 | [Red Team Village at GrayHat ](https://redteamvillage.io )|
 | Nov 1 | [YASCON 2020 ](https://yetanothersec.com/yascon2020 )|
 | Nov 12-14 | [m0leCon ](https://m0lecon.it )|
 
