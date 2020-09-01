@@ -16,6 +16,7 @@ The following are the upcoming events.
 | Sep 4-6 | [DragonJARCon ](https://www.dragonjarcon.org/) |
 | Sep 10-11 | [x33fcon](https://www.x33fcon.com/)|
 | Sep 22-25 | [Tactical Edge LATAM Virtual Summit 2020 ](https://www.tacticaledge.co )|
+| Sep 24-26 | [Ekoparty 2020](https://ekoparty.org/en_US/)|
 | Sep 26 |  [Bsides Boston ](https://bsidesbos.org )|
 | Sep 27 - Oct 2 | [Hardware.io Netherlands 2020 ](https://hardwear.io )|
 | Sep 16 - Oct 7 | [CISA's Cybersecurity Summit](https://www.cisa.gov/cybersummit2020)|
