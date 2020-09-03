@@ -2,6 +2,9 @@
 
 | Event Name and Link |
 |------------|
+| [RESTCON](https://resethacker.com/restcon)|
+| [NotPinkCon](https://notpinkcon.org/)|
+| [Disclosure by Okta ](https://www.disclosureconference.com/ )|
 | [ITWeb Security Summit](https://v2.itweb.co.za/event/itweb/security-summit-2020/?page=agendaday1)|
 | [BSides København](https://bsideskbh.dk )|
 | [UniCon](https://www.scythe.io/unicon2020 )|
