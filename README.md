@@ -8,9 +8,6 @@ The following are the upcoming events.
 
 | Date | Event Name |
 |------|------------|
-| Sep 2-5 | [R2CON 2020](https://rada.re/con/2020/)|
-| Sep 3-4 | [NoNameCon](https://nonamecon.org/)|
-| Sep 4-6 | [DragonJARCon ](https://www.dragonjarcon.org/) |
 | Sep 10-11 | [x33fcon](https://www.x33fcon.com/)|
 | Sept 17 | [Insider Risk Summit ](https://www.insiderrisksummit.com) |
 | Sep 22-25 | [Tactical Edge LATAM Virtual Summit 2020 ](https://www.tacticaledge.co )|
