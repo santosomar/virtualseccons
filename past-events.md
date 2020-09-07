@@ -2,6 +2,9 @@
 
 | Event Name and Link |
 |------------|
+| [R2CON 2020](https://rada.re/con/2020/)|
+| [NoNameCon](https://nonamecon.org/)|
+| [DragonJARCon ](https://www.dragonjarcon.org/) |
 | [RESTCON](https://resethacker.com/restcon)|
 | [NotPinkCon](https://notpinkcon.org/)|
 | [Disclosure by Okta ](https://www.disclosureconference.com/ )|
