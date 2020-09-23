@@ -2,6 +2,8 @@
 
 | Event Name and Link |
 |------------|
+| [x33fcon](https://www.x33fcon.com/)|
+| [Insider Risk Summit ](https://www.insiderrisksummit.com) |
 | [R2CON 2020](https://rada.re/con/2020/)|
 | [NoNameCon](https://nonamecon.org/)|
 | [DragonJARCon ](https://www.dragonjarcon.org/) |
