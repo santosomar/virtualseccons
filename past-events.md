@@ -2,6 +2,7 @@
 
 | Event Name and Link |
 |------------|
+| [CornCon](https://corncon.net/) |
 | [Tactical Edge LATAM Virtual Summit 2020 ](https://www.tacticaledge.co )|
 | [Deadwood 2020](https://wildwesthackinfest.com/deadwood) |
 | [Ekoparty 2020](https://ekoparty.org/en_US/)|
