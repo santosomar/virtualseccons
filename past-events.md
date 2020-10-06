@@ -2,6 +2,15 @@
 
 | Event Name and Link |
 |------------|
+| [Tactical Edge LATAM Virtual Summit 2020 ](https://www.tacticaledge.co )|
+| [Deadwood 2020](https://wildwesthackinfest.com/deadwood) |
+| [Ekoparty 2020](https://ekoparty.org/en_US/)|
+| [HACON 2020](https://hac-security.com/hacon/)
+|  [Bsides Boston ](https://bsidesbos.org )|
+| [Hardware.io Netherlands 2020 ](https://hardwear.io )|
+| [CISA's Cybersecurity Summit](https://www.cisa.gov/cybersummit2020)|
+| [BSides Singapore ](https://bsidessg.org/schedule)|
+| [Hack @ The Harbor (H@THCON)](https://hackattheharbor.com/)|
 | [x33fcon](https://www.x33fcon.com/)|
 | [Insider Risk Summit ](https://www.insiderrisksummit.com) |
 | [R2CON 2020](https://rada.re/con/2020/)|
