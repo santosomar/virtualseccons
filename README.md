@@ -19,9 +19,9 @@ The following are the upcoming events.
 | Oct 29-30 | [Triangle InfoSeCon ](https://www.triangleinfosecon.com/ )|
 | Oct 29-31 | [Texas Cyber Summit ](https://www.texascybersummit.org )|
 | Oct 24-28 | [GrayHat Trainings](https://grayhat.co )|
+| Oct 28-31 | [8dot8 Leyendas Sandbox ](www.8dot8.org) |
 | Oct 29-31 | [GrayHat Conference](https://grayhat.co )|
 | Oct 29-31 | [Red Team Village at GrayHat ](https://redteamvillage.io )|
 | Nov 1 | [YASCON 2020 ](https://yetanothersec.com/yascon2020 )|
 | Nov 13| [Scythe Purple Team Summit](https://www.scythe.io/purple-team-summit) |
 | Nov 12-14 | [m0leCon ](https://m0lecon.it )|
-
