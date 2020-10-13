@@ -2,6 +2,9 @@
 
 | Event Name and Link |
 |------------|
+| [ATT&CKcon Power Hour](https://attack.mitre.org/resources/attackcon) |
+| [ShellCon ](https://shellcon.io )|
+| [ROOTCON ](https://www.rootcon.org/) |
 | [CornCon](https://corncon.net/) |
 | [Tactical Edge LATAM Virtual Summit 2020 ](https://www.tacticaledge.co )|
 | [Deadwood 2020](https://wildwesthackinfest.com/deadwood) |
