@@ -2,6 +2,7 @@
 
 | Event Name and Link |
 |------------|
+| [BSides Delhi ](https://bsidesdelhi.in )|
 | [ATT&CKcon Power Hour](https://attack.mitre.org/resources/attackcon) |
 | [ShellCon ](https://shellcon.io )|
 | [ROOTCON ](https://www.rootcon.org/) |
