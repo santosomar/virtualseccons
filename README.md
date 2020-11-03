@@ -8,17 +8,6 @@ The following are the upcoming events.
 
 | Date | Event Name |
 |------|------------|
-| Oct 17-18 | [BSides Toronto ](http://www.bsidesto.ca/ )|
-| Oct 19-20 | [ All Things Open](https://2020.allthingsopen.org/)|
-| Oct 19-23 | [Hacker Halted ](https://www.hackerhalted.com )|
-| Oct 23 | [HOU.SEC.CON](http://houstonseccon.org)|
-| Oct 29-30 | [Triangle InfoSeCon ](https://www.triangleinfosecon.com/ )|
-| Oct 29-31 | [Texas Cyber Summit ](https://www.texascybersummit.org )|
-| Oct 24-28 | [GrayHat Trainings](https://grayhat.co )|
-| Oct 28-31 | [8dot8 Leyendas Sandbox ](www.8dot8.org) |
-| Oct 29-31 | [GrayHat Conference](https://grayhat.co )|
-| Oct 29-31 | [Red Team Village at GrayHat ](https://redteamvillage.io )|
-| Nov 1 | [YASCON 2020 ](https://yetanothersec.com/yascon2020 )|
 | Nov 6th-7th | [BSides Orlando 2020 ]https://2020.bsidesorlando.org|
 | Nov 7th-8th | [HoneyCON20](<https://honeycon.eu/>) |
 | Nov 13| [Scythe Purple Team Summit](https://www.scythe.io/purple-team-summit) |
