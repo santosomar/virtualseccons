@@ -20,7 +20,7 @@ The following are the upcoming events.
 | Oct 29-31 | [Red Team Village at GrayHat ](https://redteamvillage.io )|
 | Nov 1 | [YASCON 2020 ](https://yetanothersec.com/yascon2020 )|
 | Nov 6th-7th | [BSides Orlando 2020 ]https://2020.bsidesorlando.org|
+| Nov 7th-8th | [HoneyCON20](<https://honeycon.eu/>) |
 | Nov 13| [Scythe Purple Team Summit](https://www.scythe.io/purple-team-summit) |
 | Nov 12-14 | [m0leCon ](https://m0lecon.it )|
 | Nov 16-18 | [FIRST Virtual Conference](https://conference.first.org/) |
-
