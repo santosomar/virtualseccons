@@ -2,6 +2,16 @@
 
 | Event Name and Link |
 |------------|
+| [BSides Toronto ](http://www.bsidesto.ca/ )|
+| [ All Things Open](https://2020.allthingsopen.org/)|
+| [Hacker Halted ](https://www.hackerhalted.com )|
+| [HOU.SEC.CON](http://houstonseccon.org)|
+| [Triangle InfoSeCon ](https://www.triangleinfosecon.com/ )|
+| [GrayHat Trainings](https://grayhat.co )|
+| [8dot8 Leyendas Sandbox ](www.8dot8.org) |
+| [GrayHat Conference](https://grayhat.co )|
+| [Red Team Village at GrayHat ](https://redteamvillage.io )|
+| [YASCON 2020 ](https://yetanothersec.com/yascon2020 )|
 | [BSides Delhi ](https://bsidesdelhi.in )|
 | [ATT&CKcon Power Hour](https://attack.mitre.org/resources/attackcon) |
 | [ShellCon ](https://shellcon.io )|
