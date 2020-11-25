@@ -2,6 +2,11 @@
 
 | Event Name and Link |
 |------------|
+| [BSides Orlando 2020](https://2020.bsidesorlando.org)|
+| [HoneyCON20](<https://honeycon.eu/>) |
+| [Scythe Purple Team Summit](https://www.scythe.io/purple-team-summit) |
+| [m0leCon ](https://m0lecon.it )|
+| [FIRST Virtual Conference](https://conference.first.org/) |
 | [BSides Toronto ](http://www.bsidesto.ca/ )|
 | [ All Things Open](https://2020.allthingsopen.org/)|
 | [Hacker Halted ](https://www.hackerhalted.com )|
